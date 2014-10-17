@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[haf:home|Door43 (haf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-haf|d43-haf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-haf/archive/master.zip|d43-haf.zip]]
+
+**Recent Changes**
+{{changes>ns = haf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/haf|Ethnologue data]]
+
